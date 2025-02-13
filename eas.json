@@ -8,7 +8,8 @@
           "distribution": "internal"
         },
           "ios": {
-          "simulator": true
+          "simulator": true,
+          "bundleIdentifier": "com.rocketseat.ignitern09iweatherdeploy"
         },
         "env": {
           "EXPO_PUBLIC_WEATHER_APP_ID": "dc6495f63be28d4d0c963ade8d93d89d"
