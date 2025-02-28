@@ -11,7 +11,7 @@
 
 **[iWeather](https://github.com/AdrianoTobias/iweather)**, é uma aplicação mobile com o framework Expo, voltada a clima, utilizada para o aprendizado de build Android e iOS.
 
-O projeto também possui cobertura de testes.
+O projeto também possui cobertura de testes e continuous integration (CI).
 
 É uma aplicação desenvolvida durante o **[MBA Fullstack](https://www.rocketseat.com.br/mba)**, provido pela **[Rocketseat](https://rocketseat.com.br/)**, em parceria com a **[Sirius Education](https://landing.sirius.education/home/)**.
 
